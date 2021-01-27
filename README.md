@@ -7,7 +7,7 @@
 - peak 1~5개를 무작위로 1000만개
 
 ## label 선정기준
-- area, center, width, amplitude 기준 중 현재 area를 기준으로 하는 중
+- area, center, width, amplitude 기준 중 현재 가장 큰 area의 peak의 parameter(center,width,amplitude)를 기준으로 하는 중
 - (label을 무엇으로 잡느냐에 따라 보정작업이 달라짐)
 
 ## Conv1D layer
