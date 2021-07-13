@@ -1,7 +1,8 @@
 # 2021_Peak_Fitting2
 
 ## “Iterative peak-fitting of frequency-domain data via deep convolution neural networks”
-- (https://arxiv.org/abs/2107.04287) - Current Applied Physics(SCI)(submitted)
+### Current Applied Physics(SCI)(submitted)
+- (https://arxiv.org/abs/2107.04287)
 
 ## 2021_Peak_Fitting2
 - Follow-up research Peak_Fitting
